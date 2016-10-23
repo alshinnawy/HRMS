@@ -335,6 +335,8 @@ public class HRLogin extends javax.swing.JFrame {
             // forward to : User Role Form //
             accessByRole(roleName);
             
+                System.out.println("");
+            
             // Error Message if User name or password are wrong
             } else {
             msg.setVisible(true);
