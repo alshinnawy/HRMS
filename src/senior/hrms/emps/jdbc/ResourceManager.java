@@ -11,7 +11,7 @@ public class ResourceManager
 //    private static String JDBC_PASSWORD = "senior_hrms";
     
     /* Local */
-    private static String JDBC_URL      = "jdbc:oracle:thin:@localhost:1521:XE";
+    private static String JDBC_URL      = "jdbc:oracle:thin:@52.36.106.136:1521:XE";
     private static String JDBC_USER     = "dev"; // dev
     private static String JDBC_PASSWORD = "dev";
     private static Driver driver = null;
